@@ -1,3 +1,5 @@
+#created by Blake Yerian
+
 import numpy as np
 from fractions import Fraction
 import math
